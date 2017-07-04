@@ -519,9 +519,9 @@ fe80::1%lo0 localhost
 
 # [Amazon]
 
-0.0.0.0 aax-us-east.amazon-adsystem.com
-0.0.0.0 aax-us-west.amazon-adsystem.com
-0.0.0.0 s.amazon-adsystem.com
+#0.0.0.0 aax-us-east.amazon-adsystem.com
+#0.0.0.0 aax-us-west.amazon-adsystem.com
+#0.0.0.0 s.amazon-adsystem.com
 
 
 # [Hosted on Amazon AWS]
@@ -700,7 +700,7 @@ fe80::1%lo0 localhost
 0.0.0.0 albanytimesunion.122.2o7.net
 0.0.0.0 alchemyworldwide.tt.omtrdc.net
 0.0.0.0 allbritton.122.2o7.net
-0.0.0.0 amazonmerchants.122.2o7.net
+#0.0.0.0 amazonmerchants.122.2o7.net
 0.0.0.0 amazonshopbop.122.2o7.net
 0.0.0.0 amdvtest.112.2o7.net
 0.0.0.0 americaneagleoutfitt.tt.omtrdc.net
@@ -16691,15 +16691,15 @@ fe80::1%lo0 localhost
 0.0.0.0 mi9.gscontxt.net
 # [Amazon.com][AS16509][176.32.96.0 - 176.32.103.255]
 
-0.0.0.0 cdn.adbooth.net
-0.0.0.0 rcm.amazon.com
-0.0.0.0 alexa-sitestats.s3.amazonaws.com
-0.0.0.0 fls-na.amazon-adsystem.com
-0.0.0.0 rcm-eu.amazon-adsystem.com
-0.0.0.0 ws-eu.amazon-adsystem.com
-0.0.0.0 wms-eu.amazon-adsystem.com
-0.0.0.0 wms-na.amazon-adsystem.com
-0.0.0.0 ws-na.amazon-adsystem.com
+#0.0.0.0 cdn.adbooth.net
+#0.0.0.0 rcm.amazon.com
+#0.0.0.0 alexa-sitestats.s3.amazonaws.com
+#0.0.0.0 fls-na.amazon-adsystem.com
+#0.0.0.0 rcm-eu.amazon-adsystem.com
+#0.0.0.0 ws-eu.amazon-adsystem.com
+#0.0.0.0 wms-eu.amazon-adsystem.com
+#0.0.0.0 wms-na.amazon-adsystem.com
+#0.0.0.0 ws-na.amazon-adsystem.com
 # [Amazon.com][AS16509][176.34.184.0 - 176.34.191.255]
 
 0.0.0.0 tv4play-se.c.richmetrics.com
